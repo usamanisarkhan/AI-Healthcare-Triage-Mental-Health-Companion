@@ -1,0 +1,6 @@
+streamlit>=1.20.0
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0          # or cpu-only torch variant if needed
+pandas
+python-dotenv
